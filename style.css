@@ -27,9 +27,19 @@ button {
     margin: 8px;
     width: 100px;
     height: 100px;
+    font-size: 24px;
 }
 
 #clear {
+    background-color: pink;
     width: 340px;
     height: 100px;
+}
+
+#backspace {
+    background-color: pink;
+}
+
+#add, #subtract, #multiply, #divide, #equals {
+    background-color:lightgreen;
 }
